@@ -3,7 +3,8 @@
 Spam discord webhooks with random garbage or custom message
 
 ### Usage
-- must have python3 installed 
+- install python3 if you dont have it
+- install requests module with command: ```pip install requests```
 - Run python script
 - Enter Discord bot webhook uri 
 - Enter the amount of messages to send
